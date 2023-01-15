@@ -14,7 +14,7 @@
  
  
  ####  💡 I've used at least Once.
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/> ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white) 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/> ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white) 
  
  
  #### 💡 Also Interested..
