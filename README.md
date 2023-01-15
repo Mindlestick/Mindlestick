@@ -1,9 +1,9 @@
-# Hi there 👋
-
 <div align=center>
+# Hi there 👋
  
 😀 새로운 지식도 편식하지 않고 배우는 개발자가 되겠습니다 😃
 
+<br>
 ## Tech Stack
  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -11,10 +11,12 @@
  
  ####  💡 I've used at least Once.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/> ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white) 
-
+ 
+<br>
  ## Also Interested..
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 
+ <br>
 ## Contact
 📭 iorw0224@gmail.com
 
